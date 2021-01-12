@@ -3,9 +3,6 @@
 const joke = document.getElementById("joke");
 const next_joke = document.getElementById("next-joke");
 
-const joke = document.getElementById("joke");
-const next_joke = document.getElementById("next-joke");
-
 //API
 const apiJoke = "https://icanhazdadjoke.com/";
 
@@ -30,4 +27,3 @@ async function generateJoke() {
 }
 
 generateJoke();
-
