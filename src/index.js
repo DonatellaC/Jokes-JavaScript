@@ -33,7 +33,7 @@ async function generateJoke() {
     const randomJokes = Math.floor(Math.random() * (listJokes.length));
 
     //set the new joke
-    joke.innerHTML = ' " ' + listJokes[randomJokes] + ' " ' ;
+    joke.innerHTML = '" ' + listJokes[randomJokes] + '" ' ;
     console.log(randomJokes);
 }
 
