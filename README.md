@@ -8,4 +8,4 @@
 
 🔷 HTML, CSS, JavaScript
 
-![Img](Img.png)
+![Img](./images/Img.png)
